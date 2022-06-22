@@ -1,0 +1,7 @@
+03_scss_bundle
+04_scss_individual
+images
+
+*/.jekyll-cache
+*/.idea
+*/_site
